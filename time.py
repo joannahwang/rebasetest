@@ -2,4 +2,4 @@
 import time
 print time.time()
 
-print "I've made some changes on upstream."
+print "I made some changes on upstream."
