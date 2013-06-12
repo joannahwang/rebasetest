@@ -3,6 +3,7 @@ import time
 print time.time()
 
 print "fork added one line"
+print "fork added another line."
 print "collaborator added one line."
 print "collaborator added another line."
 print "upstream added one line."
