@@ -4,6 +4,7 @@ print time.time()
 
 print "fork added one line"
 print "fork added another line."
+print "fork added third line."
 print "collaborator added one line."
 print "collaborator added another line."
 print "collaborater added third line."
